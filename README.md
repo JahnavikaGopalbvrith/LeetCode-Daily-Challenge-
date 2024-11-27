@@ -21,7 +21,7 @@ Determine the ultimate champion in a sports tournament given match results. This
 - Tree Traversals  
 - Dynamic Programming  
 - Sorting
-### 2️⃣ **[https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/]**  
+### 2️⃣ **[Shortest Distance After Road Addition Queries I](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/)**  
 🏆 **Problem:**  
 Maintain the graph and use an efficient shortest path algorithm after each update.
 🔑 **Key Concepts:**  
