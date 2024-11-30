@@ -36,6 +36,13 @@ Welcome to the **LeetCode Daily Challenge** repository! 🎉 Here, we tackle cha
 - Heap
 - Matrix
 - Shortest path
+
+### **[Valid Arrangement of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs/description/)**  
+
+🔑 **Key Concepts:**  
+- Depth-first search  
+- graph
+- Eulerian Circuit
 ---
 ✨ **Consistent Growth:**  
 Daily practice is the secret to mastering algorithms and data structures.  
