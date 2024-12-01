@@ -43,6 +43,15 @@ Welcome to the **LeetCode Daily Challenge** repository! 🎉 Here, we tackle cha
 - Depth-first search  
 - graph
 - Eulerian Circuit
+
+### **[ Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/description/)**  
+
+🔑 **Key Concepts:**  
+- Arrays
+- Hash table
+- Two pointers
+- binary search
+- sorting
 ---
 ✨ **Consistent Growth:**  
 Daily practice is the secret to mastering algorithms and data structures.  
