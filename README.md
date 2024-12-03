@@ -52,13 +52,13 @@ Welcome to the **LeetCode Daily Challenge** repository! 🎉 Here, we tackle cha
 - Two pointers
 - binary search
 - sorting
-  
-### **[Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/description/)**  
+### **[Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/description/)**  
 
 🔑 **Key Concepts:**  
-- Two pointer  
-- Strings
-- String Matching
+- Two pointer
+- Arrays 
+- String
+- Stimulation
 ---
 ✨ **Consistent Growth:**  
 Daily practice is the secret to mastering algorithms and data structures.  
