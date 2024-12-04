@@ -59,6 +59,12 @@ Welcome to the **LeetCode Daily Challenge** repository! 🎉 Here, we tackle cha
 - Arrays 
 - String
 - Stimulation
+- 
+### **[Make String a Subsequence Using Cyclic Increments](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/description/)**  
+
+🔑 **Key Concepts:**  
+- Two pointer 
+- String
 ---
 ✨ **Consistent Growth:**  
 Daily practice is the secret to mastering algorithms and data structures.  
