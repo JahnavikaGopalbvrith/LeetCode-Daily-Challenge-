@@ -65,6 +65,12 @@ Welcome to the **LeetCode Daily Challenge** repository! 🎉 Here, we tackle cha
 🔑 **Key Concepts:**  
 - Two pointer 
 - String
+
+### **[Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/description/)**  
+
+🔑 **Key Concepts:**  
+- Two pointer 
+- String
 ---
 ✨ **Consistent Growth:**  
 Daily practice is the secret to mastering algorithms and data structures.  
