@@ -1,88 +1,56 @@
-
 # **LeetCode Daily Challenge 🚀**
 
-Welcome to the **LeetCode Daily Challenge** repository! 🎉 Here, we tackle challenging LeetCode problems every day to sharpen our problem-solving skills and prepare for coding interviews. 💡
+Welcome to the **LeetCode Daily Challenge**! 🎉 Join us as we solve exciting coding problems every day to sharpen our problem-solving skills and ace coding interviews. 💡
 
 ---
-## **Daily Challenges**
 
-###  **[Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/)**  
+## **Daily Problem Highlights**
 
-🔑 **Key Concepts:**  
-- Breadth-First Search (BFS)  
-- Hashing  
-- Permutations  
+### 🔄 **[Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/)**
+- **Core Topics:** BFS, Hashing, Permutations  
 
-###  **[Find Champion II](https://leetcode.com/problems/find-champion-ii/)**  
+### 🏆 **[Find Champion II](https://leetcode.com/problems/find-champion-ii/)**
+- **Core Topics:** Tree Traversals, Dynamic Programming, Sorting  
 
-🔑 **Key Concepts:**  
-- Tree Traversals  
-- Dynamic Programming  
-- Sorting
-  
-### **[Shortest Distance After Road Addition Queries I](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/)**  
+### 🛣️ **[Shortest Distance After Road Addition Queries I](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/)**
+- **Core Topics:** Arrays, Graphs, BFS  
 
-🔑 **Key Concepts:**  
-- Arrays 
-- Breadth-first search  
-- graph
-  
-### **[Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/description/)**  
+### 🧱 **[Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/description/)**
+- **Core Topics:** Matrix, Shortest Path, BFS, Heaps  
 
-🔑 **Key Concepts:**  
-- Arrays 
-- Breadth-first search  
-- graph
-- Heap
-- Matrix
-- Shortest path
+### 🔗 **[Valid Arrangement of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs/description/)**
+- **Core Topics:** Graphs, Eulerian Circuit, DFS  
 
-### **[Valid Arrangement of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs/description/)**  
+### 🔍 **[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/description/)**
+- **Core Topics:** Arrays, Hash Tables, Two Pointers, Binary Search  
 
-🔑 **Key Concepts:**  
-- Depth-first search  
-- graph
-- Eulerian Circuit
+### 🖊️ **[Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/description/)**
+- **Core Topics:** Arrays, Strings, Two Pointers  
 
-### **[ Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/description/)**  
+### 🔄 **[Make String a Subsequence Using Cyclic Increments](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/description/)**
+- **Core Topics:** Strings, Two Pointers  
 
-🔑 **Key Concepts:**  
-- Arrays
-- Hash table
-- Two pointers
-- binary search
-- sorting
-### **[Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/description/)**  
+### 🧩 **[Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/description/)**
+- **Core Topics:** Strings, Two Pointers  
 
-🔑 **Key Concepts:**  
-- Two pointer
-- Arrays 
-- String
-- Stimulation
+### 🔢 **[Maximum Number of Integers to Choose From a Range](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range/)**
+- **Core Topics:** Greedy, Arrays, Hash table, Binary search, sorting 
 
-### **[Make String a Subsequence Using Cyclic Increments](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/description/)**  
-
-🔑 **Key Concepts:**  
-- Two pointer 
-- String
-
-### **[Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/description/)**  
-
-🔑 **Key Concepts:**  
-- Two pointer 
-- String
 ---
-✨ **Consistent Growth:**  
-Daily practice is the secret to mastering algorithms and data structures.  
-
-💪 **Strengthen Core Concepts:**  
-Dive deep into common interview topics like graphs, recursion, and dynamic programming.  
-
-🌟 **Stay Motivated:**  
-Join the coding community, discuss approaches, and celebrate solutions together!  
 
 
-## **Let's Stay Connected!** 
-🐙 **[GitHub Profile](https://github.com/JahnavikaGopalbvrith)**  
+✨ **Build Consistency**  
+Daily practice helps strengthen your grasp of algorithms and data structures.  
 
-🎯 *"The only way to get better is to challenge yourself every day."*  
+💡 **Master Key Concepts**  
+Deep dive into high-frequency interview topics like graphs, recursion, and dynamic programming.  
+
+🤝 **Be Part of the Community**  
+Connect, discuss, and grow with others passionate about problem-solving!  
+
+---
+
+## **Stay Connected**  
+📍 **[GitHub Profile](https://github.com/JahnavikaGopalbvrith)**  
+
+🎯 *"The secret to success is consistent effort every single day."*
