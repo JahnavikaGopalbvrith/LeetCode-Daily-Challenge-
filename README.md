@@ -35,13 +35,14 @@ Welcome to the **LeetCode Daily Challenge**! 🎉 Join us as we solve exciting c
 
 ### 🔢 **[Maximum Number of Integers to Choose From a Range](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range/)**
 - **Core Topics:** Greedy, Arrays, Hash table, Binary search, sorting
-- 
-### 🔢 **[Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/description/)**
-- **Core Topics:** Arrays, Binary search, 
 
+### 🔢 **[Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/description/)**
+- **Core Topics:** Arrays, Binary search
+
+### 🔢 **[Two Best Non-Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events/description/)**
+- **Core Topics:** Arrays, Binary search, Dynamic programming,sorting,Heap(priority queue)
 
 ---
-
 
 ✨ **Build Consistency**  
 Daily practice helps strengthen your grasp of algorithms and data structures.  
