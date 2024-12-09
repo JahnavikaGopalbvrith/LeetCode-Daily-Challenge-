@@ -42,6 +42,9 @@ Welcome to the **LeetCode Daily Challenge**! 🎉 Join us as we solve exciting c
 ### 🔢 **[Two Best Non-Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events/description/)**
 - **Core Topics:** Arrays, Binary search, Dynamic programming,sorting,Heap(priority queue)
 
+### 🔢 **[Special Array II](https://leetcode.com/problems/special-array-ii/description/)**
+- **Core Topics:** Arrays, Binary search, Prefix sum
+
 ---
 
 ✨ **Build Consistency**  
