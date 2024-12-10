@@ -45,6 +45,9 @@ Welcome to the **LeetCode Daily Challenge**! 🎉 Join us as we solve exciting c
 ### 🔢 **[Special Array II](https://leetcode.com/problems/special-array-ii/description/)**
 - **Core Topics:** Arrays, Binary search, Prefix sum
 
+### 🔢 **[Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/description/)**
+- **Core Topics:** Hash Table, String, Binary Search, Sliding Window, Counting
+
 ---
 
 ✨ **Build Consistency**  
