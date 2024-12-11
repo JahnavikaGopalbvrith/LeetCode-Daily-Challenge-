@@ -48,6 +48,9 @@ Welcome to the **LeetCode Daily Challenge**! 🎉 Join us as we solve exciting c
 ### 🔢 **[Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/description/)**
 - **Core Topics:** Hash Table, String, Binary Search, Sliding Window, Counting
 
+### 🔢 **[Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/description/?envType=daily-question&envId=2024-12-11)**
+- **Core Topics:** Arrays, Binary Search, Sliding Window, Sorting
+
 ---
 
 ✨ **Build Consistency**  
