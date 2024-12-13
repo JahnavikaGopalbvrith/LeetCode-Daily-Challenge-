@@ -51,6 +51,9 @@ Welcome to the **LeetCode Daily Challenge**! 🎉 Join us as we solve exciting c
 ### 🔢 **[Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/description/?envType=daily-question&envId=2024-12-11)**
 - **Core Topics:** Arrays, Binary Search, Sliding Window, Sorting
 
+### 🔢 **[Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/description/)**
+- **Core Topics:** Arrays, Binary Search, Sliding Window, Sorting etc..
+
 ---
 
 ✨ **Build Consistency**  
