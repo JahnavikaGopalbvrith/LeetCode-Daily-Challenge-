@@ -54,6 +54,11 @@ Welcome to the **LeetCode Daily Challenge**! 🎉 Join us as we solve exciting c
 ### 🔢 **[Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/description/)**
 - **Core Topics:** Arrays, Binary Search, Sliding Window, Sorting etc..
 
+
+### 🔢 **[Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/description/)**
+- **Core Topics:** Array, Math, Heap (Priority Queue) ,Simulation
+
+
 ---
 
 ✨ **Build Consistency**  
