@@ -58,10 +58,11 @@ Welcome to the **LeetCode Daily Challenge**! 🎉 Join us as we solve exciting c
 ### 🔢 **[Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/description/)**
 - **Core Topics:** Array, Math, Heap (Priority Queue) ,Simulation
 
-
-
 ### 🔢 **[Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit/description/)**
 - **Core Topics:**Hash Table, String, Greedy, Heap (Priority Queue), Counting
+
+### 🔢 **[ Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/?envType=daily-question&envId=2024-12-18)**
+- **Core Topics:**Array, Stack, Monotonic Stack
 
 ---
 
