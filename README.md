@@ -64,6 +64,9 @@ Welcome to the **LeetCode Daily Challenge**! 🎉 Join us as we solve exciting c
 ### 🔢 **[ Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/?envType=daily-question&envId=2024-12-18)**
 - **Core Topics:**Array, Stack, Monotonic Stack
 
+### 🔢 **[Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/description/)**
+- **Core Topics:**Array, Stack, Greedy, Sorting, Monotonic Stack
+
 ---
 
 ✨ **Build Consistency**  
