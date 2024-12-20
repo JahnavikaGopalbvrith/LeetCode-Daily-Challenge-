@@ -67,6 +67,8 @@ Welcome to the **LeetCode Daily Challenge**! 🎉 Join us as we solve exciting c
 ### 🔢 **[Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/description/)**
 - **Core Topics:**Array, Stack, Greedy, Sorting, Monotonic Stack
 
+### 🔢 **[Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/description/)**
+- **Core Topics:**Tree, Depth-First Search, Breadth-First Search, Binary Tree
 ---
 
 ✨ **Build Consistency**  
