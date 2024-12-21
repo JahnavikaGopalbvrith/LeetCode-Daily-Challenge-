@@ -69,6 +69,9 @@ Welcome to the **LeetCode Daily Challenge**! 🎉 Join us as we solve exciting c
 
 ### 🔢 **[Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/description/)**
 - **Core Topics:**Tree, Depth-First Search, Breadth-First Search, Binary Tree
+
+### 🔢 **[Maximum Number of K-Divisible Components](https://leetcode.com/problems/maximum-number-of-k-divisible-components/description/)**
+- **Core Topics:**Tree, Depth-First Search
 ---
 
 ✨ **Build Consistency**  
