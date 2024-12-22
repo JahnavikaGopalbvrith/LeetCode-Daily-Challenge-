@@ -72,7 +72,9 @@ Welcome to the **LeetCode Daily Challenge**! 🎉 Join us as we solve exciting c
 
 ### 🔢 **[Maximum Number of K-Divisible Components](https://leetcode.com/problems/maximum-number-of-k-divisible-components/description/)**
 - **Core Topics:**Tree, Depth-First Search
----
+
+### 🔢 **[Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/description/)**
+- **Core Topics:**Array,Binary Search,Stack,Binary Indexed Tree,Segment Tree,Heap (Priority Queue),Monotonic Stack
 
 ✨ **Build Consistency**  
 Daily practice helps strengthen your grasp of algorithms and data structures.  
