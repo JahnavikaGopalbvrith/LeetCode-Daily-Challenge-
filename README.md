@@ -6,85 +6,45 @@ Welcome to the **LeetCode Daily Challenge**! 🎉 Join us as we solve exciting c
 
 ## **Daily Problem Highlights**
 
-### 🔄 **[Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/)**
-- **Core Topics:** BFS, Hashing, Permutations  
+This repository contains solutions to various algorithmic problems. Below is the list of problems and their descriptions:
 
-### 🏆 **[Find Champion II](https://leetcode.com/problems/find-champion-ii/)**
-- **Core Topics:** Tree Traversals, Dynamic Programming, Sorting  
+| **Problem Name**                                                              | **Description**                                                                                   |
+|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| **Adding Spaces to a String**                                                  | Adds spaces to a string at specific positions.                                                    |
+| **Check If N and Its Double Exist**                                            | Checks if there exists an integer `n` such that its double exists in the array.                   |
+| **Check If a Word Occurs As a Prefix of Any Word in a Sentence**               | Determines if a given word is a prefix of any word in a sentence.                                |
+| **Construct String With Repeat Limit**                                         | Constructs a string with repeated characters without exceeding the repeat limit.                  |
+| **Count Vowel Strings in Ranges**                                              | Counts the number of vowel strings within a specified range.                                      |
+| **Final Array State After K Multiplication Operations I**                      | Determines the final state of an array after performing K multiplication operations.             |
+| **Final Prices With a Special Discount in a Shop**                             | Calculates the final price after applying special discounts in a shop.                            |
+| **Find Building Where Alice and Bob Can Meet**                                 | Finds a building where Alice and Bob can meet based on certain conditions.                        |
+| **Find Champion II**                                                           | Identifies the champion in a series of matches with certain conditions.                           |
+| **Find Longest Special Substring That Occurs Thrice I**                         | Finds the longest special substring that appears thrice in a string.                             |
+| **Find Score of an Array After Marking All Elements**                          | Computes the score of an array after marking all elements based on certain criteria.             |
+| **Make String a Subsequence Using Cyclic Increments**                           | Makes a string a subsequence using cyclic increments.                                             |
+| **Max Chunks To Make Sorted**                                                  | Determines the maximum number of chunks into which an array can be split to make it sorted.      |
+| **Maximum Beauty of an Array After Applying Operation**                        | Finds the maximum beauty of an array after applying an operation.                                |
+| **Maximum Number of Integers to Choose From a Range I**                         | Calculates the maximum number of integers that can be selected from a range.                     |
+| **Maximum Number of K-Divisible Components**                                   | Determines the maximum number of K-divisible components in an array.                             |
+| **Maximum Score After Splitting a String**                                     | Computes the maximum score after splitting a string at various points.                            |
+| **Minimum Limit of Balls in a Bag**                                            | Finds the minimum limit of balls in a bag after applying certain operations.                      |
+| **Minimum Obstacle Removal to Reach Corner**                                   | Determines the minimum number of obstacles to remove in order to reach the corner of a grid.     |
+| **Move Pieces to Obtain a String**                                             | Determines how to move pieces to obtain a specific target string.                                 |
+| **Number of Ways to Split Array**                                              | Calculates the number of ways to split an array into two parts such that each part has a certain sum. |
+| **Reverse Odd Levels of Binary Tree**                                          | Reverses the odd levels of a binary tree while keeping the even levels intact.                   |
+| **Shortest Distance After Road Addition Queries I**                            | Finds the shortest distance in a graph after adding new roads (edges).                            |
+| **Sliding Puzzle**                                                             | Solves the sliding puzzle problem where you need to arrange pieces on a grid.                    |
+| **Special Array II**                                                           | Solves a problem related to special array conditions.                                             |
+| **Two Best Non-Overlapping Events**                                            | Finds the two best non-overlapping events in a given set.                                         |
+| **Unique Length-3 Palindromic Subsequences**                                   | Finds unique palindromic subsequences of length 3 in a string.                                    |
+| **Valid Arrangement of Pairs**                                                 | Determines if there is a valid arrangement of pairs from a given set.                             |
 
-### 🛣️ **[Shortest Distance After Road Addition Queries I](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/)**
-- **Core Topics:** Arrays, Graphs, BFS  
+## Getting Started
 
-### 🧱 **[Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/description/)**
-- **Core Topics:** Matrix, Shortest Path, BFS, Heaps  
-
-### 🔗 **[Valid Arrangement of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs/description/)**
-- **Core Topics:** Graphs, Eulerian Circuit, DFS  
-
-### 🔍 **[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/description/)**
-- **Core Topics:** Arrays, Hash Tables, Two Pointers, Binary Search  
-
-### 🖊️ **[Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/description/)**
-- **Core Topics:** Arrays, Strings, Two Pointers  
-
-### 🔄 **[Make String a Subsequence Using Cyclic Increments](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/description/)**
-- **Core Topics:** Strings, Two Pointers  
-
-### 🧩 **[Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/description/)**
-- **Core Topics:** Strings, Two Pointers  
-
-### 🔢 **[Maximum Number of Integers to Choose From a Range](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range/)**
-- **Core Topics:** Greedy, Arrays, Hash table, Binary search, sorting
-
-### 🔢 **[Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/description/)**
-- **Core Topics:** Arrays, Binary search
-
-### 🔢 **[Two Best Non-Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events/description/)**
-- **Core Topics:** Arrays, Binary search, Dynamic programming,sorting,Heap(priority queue)
-
-### 🔢 **[Special Array II](https://leetcode.com/problems/special-array-ii/description/)**
-- **Core Topics:** Arrays, Binary search, Prefix sum
-
-### 🔢 **[Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/description/)**
-- **Core Topics:** Hash Table, String, Binary Search, Sliding Window, Counting
-
-### 🔢 **[Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/description/?envType=daily-question&envId=2024-12-11)**
-- **Core Topics:** Arrays, Binary Search, Sliding Window, Sorting
-
-### 🔢 **[Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/description/)**
-- **Core Topics:** Arrays, Binary Search, Sliding Window, Sorting etc..
-
-
-### 🔢 **[Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/description/)**
-- **Core Topics:** Array, Math, Heap (Priority Queue) ,Simulation
-
-### 🔢 **[Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit/description/)**
-- **Core Topics:**Hash Table, String, Greedy, Heap (Priority Queue), Counting
-
-### 🔢 **[ Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/?envType=daily-question&envId=2024-12-18)**
-- **Core Topics:**Array, Stack, Monotonic Stack
-
-### 🔢 **[Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/description/)**
-- **Core Topics:**Array, Stack, Greedy, Sorting, Monotonic Stack
-
-### 🔢 **[Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/description/)**
-- **Core Topics:**Tree, Depth-First Search, Breadth-First Search, Binary Tree
-
-### 🔢 **[Maximum Number of K-Divisible Components](https://leetcode.com/problems/maximum-number-of-k-divisible-components/description/)**
-- **Core Topics:**Tree, Depth-First Search
-
-### 🔢 **[Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/description/)**
-- **Core Topics:**Array,Binary Search,Stack,Binary Indexed Tree,Segment Tree,Heap (Priority Queue),Monotonic Stack
-
-✨ **Build Consistency**  
-Daily practice helps strengthen your grasp of algorithms and data structures.  
-
-💡 **Master Key Concepts**  
-Deep dive into high-frequency interview topics like graphs, recursion, and dynamic programming.  
-
-🤝 **Be Part of the Community**  
-Connect, discuss, and grow with others passionate about problem-solving!!
-
+1. **Clone the Repository**  
+   Clone this repository to your local machine using:
+   ```bash
+   git clone https://github.com/your-username/algorithm-solutions.git
 
 ---
 
