@@ -1,0 +1,14 @@
+C++
+#include <unordered_map>
+using namespace std;
+
+class Solution {
+public:
+    bool canConstruct(string s, int k) {
+        bitset<128> hm;
+        if (k > s.size()) return false;
+        for (char x : s) hm.flip(x);
+        return hm.count() <= k;
+    }
+    
+};
